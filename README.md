@@ -1,10 +1,3 @@
-<style>
-    .column {
-        float: left;
-        width: 50%;
-    }
-</style>
-
 <div class="column">
     <h2>Links to Google News</h2>
 <ul>
