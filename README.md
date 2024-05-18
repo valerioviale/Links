@@ -19,4 +19,8 @@ Links
 
 </ul>
 
+Video News WebSites:
+<li><a href="https://www.france24.com/en/live" target="_blank"><img src="https://www.countryflags.com/wp-content/uploads/france-flag-png-large.png" alt="France Flag" style="width:20px; vertical-align:middle;"> France 24 Live</a></li>
+
+
 
