@@ -15,7 +15,7 @@ Links
   <li><a href="https://news.google.com/?hl=pt-BR&gl=BR&ceid=BR:pt-419" target="_blank"><img src="https://www.countryflags.com/wp-content/uploads/brazil-flag-png-large.png" alt="Brazil Flag" style="width:20px; vertical-align:middle;"> Brazil</a></li>
   <li><a href="https://news.google.com/?hl=ja&gl=JP&ceid=JP:ja" target="_blank"><img src="https://www.countryflags.com/wp-content/uploads/japan-flag-png-large.png" alt="Japan Flag" style="width:20px; vertical-align:middle;"> Japan</a></li>
   <li><a href="https://news.google.com/?hl=es-419&gl=MX&ceid=MX:es-419" target="_blank"><img src="https://www.countryflags.com/wp-content/uploads/mexico-flag-png-large.png" alt="Mexico Flag" style="width:20px; vertical-align:middle;"> Mexico</a></li>
-  <li><a href="https://news.google.com/?hl=es-419&gl=AR&ceid=AR:es" target="_blank"><img src="https://www.countryflags.com/wp-content/uploads/argentina-flag-png-large.png" alt="Argentina Flag" style="width:20px; vertical-align:middle;"> Argentina</a></li>
+  <li><a href="https://news.google.com/?hl=es-419&gl=AR&ceid=AR:es" target="_blank"><img src="https://en.wikipedia.org/wiki/Argentina#/media/File:Flag_of_Argentina.svg" alt="Argentina Flag" style="width:20px; vertical-align:middle;"> Argentina</a></li>
 
 </ul>
 
