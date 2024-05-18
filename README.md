@@ -1,5 +1,5 @@
 # Links
-Links to Google News
+<h1> Links to Google News </h1>
 <ul>
     <li><a href="https://news.google.com/home?hl=it&gl=IT&ceid=IT:it" target="_blank"><img src="https://www.countryflags.com/wp-content/uploads/italy-flag-png-large.png" alt="Italy Flag" style="width:20px; vertical-align:middle;"> Italy</a></li>
     <li><a href="https://news.google.com/?hl=en-GB&gl=GB&ceid=GB:en" target="_blank"><img src="https://www.countryflags.com/wp-content/uploads/united-kingdom-flag-png-large.png" alt="United Kingdom Flag" style="width:20px; vertical-align:middle;"> United Kingdom</a></li>
@@ -21,7 +21,7 @@ Links to Google News
 
 </ul>
 
-Video News WebSites:
+<h1> Video News WebSites:</h1>
 <li><a href="https://www.raiplay.it/dirette/rainews24" target="_blank"><img src="https://www.countryflags.com/wp-content/uploads/italy-flag-png-large.png" alt="Italy Flag" style="width:20px; vertical-align:middle;"> Rai News 24 Live</a></li>
 <li><a href="https://www.france24.com/en/live" target="_blank"><img src="https://www.countryflags.com/wp-content/uploads/united-kingdom-flag-png-large.png" alt="United Kingdom Flag" style="width:20px; vertical-align:middle;"> France 24 Live (English)</a></li>
 <li><a href="https://www.france24.com/en/live" target="_blank"><img src="https://www.countryflags.com/wp-content/uploads/france-flag-png-large.png" alt="France Flag" style="width:20px; vertical-align:middle;"> France 24 France </a></li>
