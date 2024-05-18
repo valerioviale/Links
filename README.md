@@ -35,7 +35,7 @@
 
 <li><a href="https://it.wikipedia.org/wiki/Pagina_principale" target="_blank"><img src="https://www.countryflags.com/wp-content/uploads/italy-flag-png-large.png" alt="Italy Flag" style="width:20px; vertical-align:middle;"> Italiano </a></li>
 <li><a href="https://en.wikipedia.org/wiki/Main_Page" target="_blank"><img src="https://www.countryflags.com/wp-content/uploads/united-kingdom-flag-png-large.png" alt="United Kingdom Flag" style="width:25px; vertical-align:middle;"> English </a></li>
-<li><a href="https://es.wikipedia.org/wiki/Wikipedia:Portada" target="_blank"><img src="https://www.countryflags.com/wp-content/uploads/colombia-flag-png-large.png" alt="Colombia Flag" style="width:20px; vertical-align:middle;"> Español </a></li>
+<li><a href="https://es.wikipedia.org/wiki/Wikipedia:Portada" target="_blank"><img src="https://www.countryflags.com/wp-content/uploads/colombia-flag-png-large.png" alt="Colombia Flag" style="width:25px; vertical-align:middle;"> Español </a></li>
 
 
 
