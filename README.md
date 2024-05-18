@@ -13,7 +13,7 @@ United Kingdom: https://news.google.com/?hl=en-GB&gl=GB&ceid=GB:en
 
 United States: https://news.google.com/?hl=en-US&gl=US&ceid=US:en
 
-Canada Eng: https://news.google.com/?hl=en-CA&gl=CA&ceid=CA:en
+Canada Eng:![image](https://github.com/valerioviale/Links/assets/34212301/b7ad39ad-53b0-4762-915e-60cc7a2748da) https://news.google.com/?hl=en-CA&gl=CA&ceid=CA:en
 
 Canada French: https://news.google.com/home?hl=fr-CA&gl=CA&ceid=CA:fr
 
