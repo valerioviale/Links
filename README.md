@@ -33,10 +33,11 @@
 
 <h1> Wikipedia </h1>
 
-<li><a href="https://it.wikipedia.org/wiki/Italia" target="_blank"><img src="https://www.countryflags.com/wp-content/uploads/italy-flag-png-large.png" alt="Italy Flag" style="width:20px; vertical-align:middle;"> Italia</a></li>
-<li><a href="https://en.wikipedia.org/wiki/United_Kingdom" target="_blank"><img src="https://www.countryflags.com/wp-content/uploads/united-kingdom-flag-png-large.png" alt="United Kingdom Flag" style="width:20px; vertical-align:middle;"> United Kingdom</a></li>
-<li><a href="https://en.wikipedia.org/wiki/United_States" target="_blank"><img src="https://www.countryflags.com/wp-content/uploads/united-states-of-america-flag-png-large.png" alt="United States Flag" style="width:25px; vertical-align:middle;"> United States</a></li>
-<li><a href="https://es.wikipedia.org/wiki/Colombia" target="_blank"><img src="https://www.countryflags.com/wp-content/uploads/colombia-flag-png-large.png" alt="Colombia Flag" style="width:20px; vertical-align:middle;"> Colombia</a></li>
+<li><a href="https://it.wikipedia.org/wiki/Pagina_principale" target="_blank"><img src="https://www.countryflags.com/wp-content/uploads/italy-flag-png-large.png" alt="Italy Flag" style="width:20px; vertical-align:middle;"> Italia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Main_Page" target="_blank"><img src="https://www.countryflags.com/wp-content/uploads/united-kingdom-flag-png-large.png" alt="United Kingdom Flag" style="width:20px; vertical-align:middle;"> United Kingdom</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Main_Page" target="_blank"><img src="https://www.countryflags.com/wp-content/uploads/united-states-of-america-flag-png-large.png" alt="United States Flag" style="width:25px; vertical-align:middle;"> United States</a></li>
+<li><a href="https://es.wikipedia.org/wiki/Wikipedia:Portada" target="_blank"><img src="https://www.countryflags.com/wp-content/uploads/colombia-flag-png-large.png" alt="Colombia Flag" style="width:20px; vertical-align:middle;"> Colombia</a></li>
+
 
 
 
