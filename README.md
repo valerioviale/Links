@@ -31,6 +31,31 @@ Video News WebSites:
 <li><a href="https://nos.nl/livestream/2285253-nos-nieuws.html" target="_blank"><img src="https://www.countryflags.com/wp-content/uploads/netherlands-flag-png-large.png" alt="Netherlands Flag" style="width:20px; vertical-align:middle;"> NOS Nieuws Live</a></li>
 
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Global News Map</title>
+</head>
+<body>
+
+<h2>Select Your Region:</h2>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/World_Map_by_Fourth_Element.svg/1024px-World_Map_by_Fourth_Element.svg.png" alt="World Map" usemap="#worldmap" style="max-width: 100%; height: auto;">
+
+<map name="worldmap">
+  <area shape="rect" coords="0,0,250,150" alt="North America" href="https://news.google.com/?hl=en-US&gl=US&ceid=US:en" target="_blank">
+  <area shape="rect" coords="250,0,500,150" alt="South America" href="https://news.google.com/?hl=es-419&gl=CO&ceid=CO:es-419" target="_blank">
+  <area shape="rect" coords="500,0,750,150" alt="Europe" href="https://news.google.com/?hl=en-GB&gl=GB&ceid=GB:en" target="_blank">
+  <!-- Add more areas for other regions -->
+</map>
+
+</body>
+</html>
+
+
+
 
 
 
