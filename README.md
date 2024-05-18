@@ -1,5 +1,5 @@
 # Links
-Links
+Links to Google News
 <ul>
   <li><a href="https://news.google.com/home?hl=es-419&gl=CO&ceid=CO:es-419" target="_blank"><img src="https://www.countryflags.com/wp-content/uploads/colombia-flag-png-large.png" alt="Colombia Flag" style="width:20px; vertical-align:middle;"> Colombia</a></li>
   <li><a href="https://news.google.com/?hl=es&gl=ES&ceid=ES:es" target="_blank"><img src="https://www.countryflags.com/wp-content/uploads/spain-flag-png-large.png" alt="Spain Flag" style="width:20px; vertical-align:middle;"> Spain</a></li>
@@ -20,6 +20,7 @@ Links
 </ul>
 
 Video News WebSites:
+<li><a href="https://www.france24.com/en/live" target="_blank"><img src="https://www.countryflags.com/wp-content/uploads/united-kingdom-flag-png-large.png" alt="United Kingdom Flag" style="width:20px; vertical-align:middle;"> France 24 Live (English)</a></li>
 <li><a href="https://www.france24.com/en/live" target="_blank"><img src="https://www.countryflags.com/wp-content/uploads/france-flag-png-large.png" alt="France Flag" style="width:20px; vertical-align:middle;"> France 24 France </a></li>
 <li><a href="https://www.dw.com/en/top-stories/s-9097" target="_blank"><img src="https://www.countryflags.com/wp-content/uploads/germany-flag-png-large.png" alt="Germany Flag" style="width:20px; vertical-align:middle;"> Deutsche Welle (DW)</a></li>
 <li><a href="https://www.raiplay.it/dirette/rainews24" target="_blank"><img src="https://www.countryflags.com/wp-content/uploads/italy-flag-png-large.png" alt="Italy Flag" style="width:20px; vertical-align:middle;"> Rai News 24 Live</a></li>
