@@ -26,6 +26,8 @@ Video News WebSites:
 <li><a href="https://www.dw.com/en/top-stories/s-9097" target="_blank"><img src="https://www.countryflags.com/wp-content/uploads/united-kingdom-flag-png-large.png" alt="Germany Flag" style="width:20px; vertical-align:middle;"> English Deutsche Welle (DW)</a></li>
 <li><a href="https://www.dw.com/de/top-stories/s-9097" target="_blank"><img src="https://www.countryflags.com/wp-content/uploads/germany-flag-png-large.png" alt="Germany Flag" style="width:20px; vertical-align:middle;"> Deutsche Welle (DW) auf Deutsch</a></li>
 <li><a href="https://www.france24.com/es/en-vivo" target="_blank"><img src="https://www.countryflags.com/wp-content/uploads/spain-flag-png-large.png" alt="Spain Flag" style="width:20px; vertical-align:middle;"> France 24 LATAM en Vivo</a></li>
+<li><a href="https://nos.nl/livestream/2285253-nos-nieuws.html" target="_blank"><img src="https://www.countryflags.com/wp-content/uploads/netherlands-flag-png-large.png" alt="Netherlands Flag" style="width:20px; vertical-align:middle;"> NOS Nieuws Live</a></li>
+
 
 
 
