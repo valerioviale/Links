@@ -30,29 +30,14 @@ Video News WebSites:
 <li><a href="https://www.france24.com/es/en-vivo" target="_blank"><img src="https://www.countryflags.com/wp-content/uploads/spain-flag-png-large.png" alt="Spain Flag" style="width:20px; vertical-align:middle;"> France 24 LATAM en Vivo</a></li>
 <li><a href="https://nos.nl/livestream/2285253-nos-nieuws.html" target="_blank"><img src="https://www.countryflags.com/wp-content/uploads/netherlands-flag-png-large.png" alt="Netherlands Flag" style="width:20px; vertical-align:middle;"> NOS Nieuws Live</a></li>
 
+Wikipedia
+<li><a href="https://en.wikipedia.org/wiki/Italy" target="_blank"><img src="https://www.countryflags.com/wp-content/uploads/italy-flag-png-large.png" alt="Italy Flag" style="width:20px; vertical-align:middle;"> Italy</a></li>
+<li><a href="https://en.wikipedia.org/wiki/United_Kingdom" target="_blank"><img src="https://www.countryflags.com/wp-content/uploads/united-kingdom-flag-png-large.png" alt="United Kingdom Flag" style="width:20px; vertical-align:middle;"> United Kingdom</a></li>
+<li><a href="https://en.wikipedia.org/wiki/United_States" target="_blank"><img src="https://www.countryflags.com/wp-content/uploads/united-states-of-america-flag-png-large.png" alt="United States Flag" style="width:25px; vertical-align:middle;"> United States</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Colombia" target="_blank"><img src="https://www.countryflags.com/wp-content/uploads/colombia-flag-png-large.png" alt="Colombia Flag" style="width:20px; vertical-align:middle;"> Colombia</a></li>
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Global Wikipedia Map</title>
-</head>
-<body>
 
-<h2>Select Your Language:</h2>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/World_Map_by_Fourth_Element.svg/1024px-World_Map_by_Fourth_Element.svg.png" alt="World Map" usemap="#worldmap" style="max-width: 100%; height: auto;">
-
-<map name="worldmap">
-  <area shape="rect" coords="350,150,500,300" alt="Italy" href="https://it.wikipedia.org/wiki/Pagina_principale" target="_blank">
-  <area shape="rect" coords="150,200,350,300" alt="Spain" href="https://es.wikipedia.org/wiki/Portada" target="_blank">
-  <area shape="rect" coords="0,0,150,150" alt="United Kingdom" href="https://en.wikipedia.org/wiki/Main_Page" target="_blank">
-  <area shape="rect" coords="450,0,600,150" alt="France" href="https://fr.wikipedia.org/wiki/Accueil_principal" target="_blank">
-</map>
-
-</body>
-</html>
 
 
 
